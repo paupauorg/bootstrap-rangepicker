@@ -1,0 +1,2 @@
+Dan Grossman\'s date range picker for Twitter Bootstrap packaged for the Rails asset pipeline
+https://github.com/dangrossman/bootstrap-daterangepicker
